@@ -1,7 +1,7 @@
 <h1>DeepFluidics</h1>
 Home made multiplexer made of 8 independant valves, with its MATLAB program
 
-<img src="Deepfluidics_pres.png">
+<img src="DeepFluidics_pres.png">
 
 To reproduce it:
 Guide coming soon!
